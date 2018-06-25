@@ -1,4 +1,4 @@
-# Swiss-Knife-XSS-Vectors
+# Awesome XSS Vectors
 Exotic and uncommon XSS Vectors to hit the target as quickly as possible.
 THIS IS SPECIALLY FOR BUG BOUNTY HUNTERS AND SECURITY RESEARCHERS.
 
