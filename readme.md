@@ -1,4 +1,4 @@
-# Awesome XSS Vectors
+# Awesome XSS Payloads and Vectors
 Exotic and uncommon XSS Vectors to hit the target as quickly as possible.
 THIS IS SPECIALLY FOR BUG BOUNTY HUNTERS AND SECURITY RESEARCHERS.
 
